@@ -133,5 +133,9 @@ namespace CSharpReg
             Console.WriteLine("In kassa:      " + inKassa.ToString());
             Console.WriteLine("============================");
         }
+
+        static void Arya() {
+            console.log("Hello world")
+        }
     }
 }
