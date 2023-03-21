@@ -133,5 +133,10 @@ namespace CSharpReg
             Console.WriteLine("In kassa:      " + inKassa.ToString());
             Console.WriteLine("============================");
         }
+
+        static void stan()
+        {
+            Console.WriteLine("Hi mom I love you");
+        }
     }
 }
