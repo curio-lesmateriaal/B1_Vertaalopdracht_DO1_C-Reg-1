@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zMSwUjsALqlCk6WML4CS20FEZ1IQ3MjHEQsdrXSuBQS2B5OOcMlOvC18upql4fqAu8SeYvOvou9KuElI2CeTmw==",
+  "dgSpecHash": "vLdEuDilMjP62gPEYF4/g/OHrxdGi3aLOmqiv+znMCawnT19XZzJtFD+WCdnf5P/cyiQ9GycOgdS5BQ3GjRPNQ==",
   "success": true,
-  "projectFilePath": "C:\\git\\B1_Vertaalopdracht_DO1_CSharpReg\\CSharpReg\\CSharpReg.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/nit/Documents/c# projects/pipi/B1_Vertaalopdracht_DO1_C-Reg-1/CSharpReg/CSharpReg.csproj",
+  "expectedPackageFiles": [
+    "/home/nit/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/nit/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/nit/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.32/microsoft.netcore.app.host.linux-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
