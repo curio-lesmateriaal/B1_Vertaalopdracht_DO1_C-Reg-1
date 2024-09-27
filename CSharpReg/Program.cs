@@ -105,12 +105,12 @@ namespace CSharpReg
                     }
                 }
                 // TODO: If-statement corrigeren
-                else if (keuze == 2)
+                else if (keuze == "2")
                 {
-                    // TODO: Afmaken
+                    Console.WriteLine("peepeepoopoo hahahahahahahahahahahahahahahaha");
                 }
                 // TODO: If-statement corrigeren
-                else if (keuze == 3)
+                else if (keuze == "3")
                 {
                     // TODO: Afmaken
                 }
@@ -132,6 +132,11 @@ namespace CSharpReg
             Console.WriteLine("Totaal retour: " + dagTotaalTerug.ToString());
             Console.WriteLine("In kassa:      " + inKassa.ToString());
             Console.WriteLine("============================");
+        }
+
+        static void stan()
+        {
+            Console.WriteLine("Hi mom I love you");
         }
     }
 }
